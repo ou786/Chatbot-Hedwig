@@ -1,0 +1,13 @@
+export const dialogflowConfig ={
+        "type": "service_account",
+        "project_id": "chatbot-cosd",
+        "private_key_id": "63585af38607cf8c2a4100cde15ecf675974d114",
+        "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCa9zatHLMocfI1\nadXESqUYpII55sDPPWhOoRF+WIP6DkHFgcoAla3BkYiENMty07RSWWbKun6SSYvt\n1HsP4HnrqMKbmNpcrKCwfBogbhKBmr6jWXdEVjWdHQVLZVt1hi6oLFidwK8Ho7vl\nBaY8QMV03+Ch7sD1XPjcvnyk3x+7G9GWsH4zAqXDitOEHqMDV8f5hHiY07MWEhNW\nPxR9p7TZNdJd1VwYlE4L5vNFyOeGJ6nZAUqO35rzdDG+79ufZg7EC8x1Ck0BakvX\nj80NCyX4cG5daiP6AtR9iOZEjjbnJKxaHJMGtnUuq6/osOPa/ZG5qyEyDbrUFjUx\nQvdD6jpLAgMBAAECgf9OsTsSrYBNCY/1j8j95OnxmZiHzqYalxRg2WoIvupGEPdV\nVJM/uMKDiWPJvwWRSfBH4R5R1GJx5ucn3r6fUV6YTRqF6Rj59q+i72JVFZBQQESO\nrt/h0+Vl41bM8qt/AqSuwdY+RZqcRokjw7qm3j1nHEj18kgKUSwO7KxfDO8QFEWd\nVZOahNU8dPrQSlt1GM/vsIsRe4j+G+s0/vvp/3967yu9mosC2k9UItr4UEOjO6zk\nBN7ru6vhnIjT2zscftHldtBU8hR2gx++5AD3JZ8Ay33k+ejVqTu0Mpwgs+imU8Zg\nGhpP7V1iS8YNOPBDpvS83aDvL+HZ80gtPowieTECgYEA1OduKY7YXRGTMPW7SUCe\nDwanIGXrab/yv+oHFW0EWPx85QRbAzapGsC8CDiyl5B1M2i260sKpTXNCnXYxMCK\nxwf6YizcDBDcRew45/Q3gezARMxEIA54em4A/QjpIfbvEPrNu8KMVLkgyHx+uGNA\n3oqZkkg9+5fRm9T3RufbZrUCgYEAulVzL1klfGCocMrm89tuXFRWfhdJj0sB9j8Y\nHMfP1vtg/7Z5yeMbzIlOAIDwb5BJeiIfhMx9JcMA61gTCSZJsU07Vv3S27RP0jYk\nMDYRgE3Sok1F6LkvojQZBClOXRsRUxioe920m+htDh9nW713V9TVwoHOI5curM15\nhkJqvP8CgYB3Ky8rTcxnk63KytDQ+L0/9d5YMRQq9gjfSRQ79vBnCrSxz9VNoCvZ\nUKYvB+VXFsGzS9qPK0rDHLEvOLVjs846B4orp6ZnjoxtCwLzOmxTafxYxekf9FmV\nVbtx5qnvm/NGksvTW9sGlTT3Y0/ez5eAuR2qloszJ1BpJDRg2OiivQKBgE5BfPKx\nufCWl6dnT7+ytJLKSNkD5rzrf5NvxCyyLjPXt1EtzdBgNVidgcjsXg48xt8oXZxk\nVVr6nvQ4NSZukhyIlxdd2qSzAaMDYgdtbcQ46vGHColG3R5+StNYlbS8nXYMsRX0\nctnXr5Vy0vHQjMKyfGQIKA8Ce3PPh+4/Dpz5AoGAZths2NYiJfg9YpXu/RBn2rk5\nxNHVENteirhJDUIm3x7CYkWSMXED4WWYGpechkV9BLtjQBHP2Se7/EKJP0GHJgss\nul7Ha2ApL98I59wrMaw4jzm+WxuNCTqlqJH7t+epdLVP2w/SFXiqyIEpWEt2oToR\nIz1Q8ABW3aKv6VbS07A=\n-----END PRIVATE KEY-----\n",
+        "client_email": "chatbot-lesson@chatbot-cosd.iam.gserviceaccount.com",
+        "client_id": "107429905966702460122",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot-lesson%40chatbot-cosd.iam.gserviceaccount.com"
+      
+}
